@@ -62,25 +62,25 @@ Before graduating, I gained production experience across telecom, insurance, and
 
 ## 💼 Experience
 
-### 🔵 Software Engineer Intern — Orion Innovation Turkey  
+### 🔵 Software Engineer (Internship) — Orion Innovation Turkey  
 `Oct 2025 – Feb 2026`  
 Worked on telecom device onboarding pipeline automation, SNMP/SFTP credential security, and API contract issue resolution.
 
 ---
 
-### 🟣 Software Developer Intern — Valde Bilişim Teknolojileri  
+### 🟣 Software Developer (Internship) — Valde Bilişim Teknolojileri  
 `Jul 2025 – Aug 2025`  
 Developed 20+ RESTful API endpoints with JWT authentication, layered architecture, and full Postman test collections.
 
 ---
 
-### 🟢 System Analyst & RPA Developer Intern — Corpus Sigorta  
+### 🟢 System Analyst & RPA Developer (Internship) — Corpus Sigorta  
 `Aug 2024 – May 2025`  
 Performed testing across 30+ screens, Python/PL-SQL reporting, and UiPath RPA development.
 
 ---
 
-### 🟡 Software Developer Intern — Ankara Sigorta  
+### 🟡 Software Developer (Internship) — Ankara Sigorta  
 `Jul 2023 – Oct 2023`  
 Contributed to HR module development with ASP.NET Core MVC.
 
