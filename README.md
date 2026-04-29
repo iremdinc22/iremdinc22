@@ -45,6 +45,12 @@ Before graduating, I gained production experience across telecom, insurance, and
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-444444?style=flat-square&logo=huggingface&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-444444?style=flat-square&logo=fastapi&logoColor=white)
 
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-444444?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-444444?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-444444?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-444444?style=flat-square&logo=react&logoColor=white)
+
 ### Architecture
 ![Microservices](https://img.shields.io/badge/Microservices-444444?style=flat-square&logo=kubernetes&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-444444?style=flat-square&logo=buffer&logoColor=white)
