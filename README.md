@@ -118,12 +118,8 @@ Contributed to HR module development with ASP.NET Core MVC.
 
 <div align="center">
 
-<div style="display:inline-block; padding:10px 16px; border-radius:10px; border:1px solid #8E44AD; box-shadow:0 0 10px rgba(142,68,173,0.3);">
-  <b>✨ Open to AI Engineering & Software Engineering Opportunities</b>
-</div>
+### ✨ Open to AI Engineering & Software Engineering Opportunities
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,100:0A66C2&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,100:0A66C2&height=100&section=footer"/>
 
 </div>
