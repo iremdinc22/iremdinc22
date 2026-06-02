@@ -102,24 +102,22 @@ Contributed to HR module development with ASP.NET Core MVC.
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iremdinc22&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=iremdinc22&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremdinc22&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremdinc22&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=iremdinc22&theme=tokyonight&hide_border=true" height="170" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iremdinc22&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
 ---
 
-<div align="center">
+<h3 align="center">✨ Open to AI Engineering & Software Engineering Opportunities</h3>
 
-### ✨ Open to AI Engineering & Software Engineering Opportunities
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,100:0A66C2&height=100&section=footer"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,100:0A66C2&height=100&section=footer" />
+</p>
