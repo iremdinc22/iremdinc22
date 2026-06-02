@@ -104,13 +104,13 @@ Contributed to HR module development with ASP.NET Core MVC.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iremdinc22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A66C2&icon_color=8E44AD&text_color=ffffff" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremdinc22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0A66C2&text_color=ffffff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iremdinc22&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremdinc22&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iremdinc22&theme=tokyonight&hide_border=true&background=0d1117&ring=0A66C2&fire=8E44AD&currStreakLabel=0A66C2" height="170"/>
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=iremdinc22&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
 
