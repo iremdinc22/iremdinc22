@@ -102,17 +102,14 @@ Contributed to HR module development with ASP.NET Core MVC.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iremdinc22&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iremdinc22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremdinc22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremdinc22&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iremdinc22&theme=tokyonight&hide_border=true" height="170" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=iremdinc22&theme=tokyonight&hide_border=true" height="160" />
+</div>
 
 ---
 
