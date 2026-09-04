@@ -66,50 +66,6 @@ Before graduating, I gained production experience across telecom, insurance, and
 
 ---
 
-## 💼 Experience
-
-### 🔵 Software Engineer (Internship) — Orion Innovation Turkey
-`Oct 2025 – Feb 2026`
-
-- Developed backend integrations for telecom device onboarding workflows using REST APIs and Java-based automation tools.
-- Built a command-line application for secure processing of SNMP and SFTP credentials using Base64 encoding and 3DES decryption.
-- Implemented validation and fallback mechanisms to improve system reliability and reduce registration failures.
-- Analyzed and resolved API contract mismatches between integrated systems, improving communication stability.
-- Contributed to troubleshooting, deployment, and maintenance activities within an enterprise environment.
-
----
-
-### 🟣 Software Developer (Internship) — Valde Bilişim Teknolojileri
-`Jul 2025 – Aug 2025`
-
-- Developed 20+ RESTful APIs for an enterprise Demand Management System using .NET technologies.
-- Implemented JWT authentication, role-based authorization, and global exception handling mechanisms.
-- Designed standardized API responses, pagination structures, and optimized database queries to improve application performance.
-- Performed API testing and created Postman collections to support regression testing processes.
-- Collaborated with developers and business teams to deliver scalable and maintainable backend solutions.
-
----
-
-### 🟢 System Analyst & RPA Developer (Internship) — Corpus Sigorta
-`Aug 2024 – May 2025`
-
-- Worked closely with business teams to analyze and validate financial and insurance processes.
-- Performed business rule validation and role-based access testing across enterprise applications.
-- Created SQL and PL/SQL reports supporting operational and business processes.
-- Coordinated defect tracking and issue resolution with development teams.
-
----
-
-### 🟡 Software Developer (Internship) — Ankara Sigorta
-`Jul 2023 – Oct 2023`
-
-- Developed internal HR management screens using ASP.NET Core MVC.
-- Performed functional and role-based testing for application modules.
-- Validated business rules and user permissions across multiple screens.
-- Collaborated with analysts and developers to identify and resolve software defects.
-
----
-
 Collaborated with analysts and developers to identify and resolve software defects.
 ## 🚀 Currently Working On
 
