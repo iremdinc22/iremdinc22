@@ -22,7 +22,7 @@
 
 I'm a software engineer building intelligent AI-powered applications and scalable systems.
 
-I have hands-on experience with **LLM-based applications**, along with strong expertise in **.NET Core**, **Java**, **microservice architecture**, and **distributed systems**.
+I have hands-on experience with **LLM-based applications**, along with **.NET Core**, **Java**, **microservice architecture**, and **distributed systems**.
 
 Before graduating, I gained production experience across telecom, insurance, and software companies.
 
@@ -66,16 +66,41 @@ Before graduating, I gained production experience across telecom, insurance, and
 
 ---
 
-Collaborated with analysts and developers to identify and resolve software defects.
 ## 🚀 Currently Working On
 
-⚡ **LLM and RAG system architecture**  
-
+⚡ **LLM & RAG system architecture**  
 ⚡ **Scalable backend systems**  
-
 ⚡ **Production-grade AI applications**  
+⚡ **System design & distributed architectures**
 
-⚡ **System design and distributed architectures**
+---
+
+## 🎮 Commit Arcade
+
+<div align="center">
+
+<p>
+  <strong>Turning commits into power pellets.</strong> 👻
+</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/iremdinc22/iremdinc22/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/iremdinc22/iremdinc22/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/iremdinc22/iremdinc22/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -85,7 +110,9 @@ Collaborated with analysts and developers to identify and resolve software defec
 
 ---
 
-<h3 align="center">✨ Open to AI Engineering & Software Engineering Opportunities</h3>
+<h3 align="center">
+✨ Open to AI Engineering & Software Engineering Opportunities
+</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,100:0A66C2&height=100&section=footer" />
