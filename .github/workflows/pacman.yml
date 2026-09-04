@@ -1,4 +1,4 @@
-nname: Generate Pac-Man contribution graph
+name: Generate Pac-Man contribution graph
 
 on:
   schedule:
