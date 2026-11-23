@@ -28,50 +28,24 @@ Before graduating, I gained production experience across telecom, insurance, and
 
 ---
 
-## 🛠️ Tech Stack
+## Technologies
 
-### Backend
-![C#](https://img.shields.io/badge/C%23-444444?style=flat-square&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-444444?style=flat-square&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-444444?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-444444?style=flat-square&logo=spring-boot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-444444?style=flat-square&logo=fastapi&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-444444?style=flat-square&logo=dotnet&logoColor=white)
+- **AI & LLM engineering** — Python, LangChain, LangGraph, OpenAI API, hybrid retrieval, RAG evaluation, PyTorch
+- **Backend & APIs** — FastAPI, Java / Spring Boot, C# / ASP.NET Core, EF Core, REST APIs, SignalR
+- **Data & infrastructure** — PostgreSQL, Oracle SQL, Qdrant, Redis, Kafka, RabbitMQ, Celery, Docker, GitHub Actions
+- **Frontend & mobile** — TypeScript, React, React Native
 
-### AI / ML
-![Python](https://img.shields.io/badge/Python-444444?style=flat-square&logo=python&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Fundamentals-444444?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-444444?style=flat-square&logo=semanticweb&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-444444?style=flat-square&logo=huggingface&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-444444?style=flat-square&logo=fastapi&logoColor=white)
+## Technical writing
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-444444?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-444444?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-444444?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-444444?style=flat-square&logo=react&logoColor=white)
-
-### Architecture
-![Microservices](https://img.shields.io/badge/Microservices-444444?style=flat-square&logo=kubernetes&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-444444?style=flat-square&logo=buffer&logoColor=white)
-
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-444444?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-444444?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-444444?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-444444?style=flat-square&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-444444?style=flat-square&logo=rabbitmq&logoColor=white)
-![Git](https://img.shields.io/badge/Git-444444?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-444444?style=flat-square&logo=postman&logoColor=white)
+I write about how retrieval choices affect RAG quality, how to evaluate generated answers, and when a task benefits from multiple agents. [Read my articles on Medium](https://medium.com/@iremdinc22).
 
 ---
 
-## 🚀 Currently Working On
+## 🚀 Current Focus
 
-⚡ **LLM & RAG system architecture**  
-⚡ **Scalable backend systems**  
-⚡ **Production-grade AI applications**  
-⚡ **System design & distributed architectures**
+- **RAG quality** — Testing how hybrid retrieval and reranking affect the quality of source-grounded answers.
+- **Agent orchestration** — Building workflows that route tasks to specialized agents and track their execution.
+- **Backend reliability** — Handling concurrent bookings and publishing events reliably with Spring Boot and PostgreSQL.
 
 ---
 
